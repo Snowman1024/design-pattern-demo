@@ -2,7 +2,7 @@ package com.snowman.design.pattern.structuralPattern.adapter;
 
 /**
  * @Description 对象模式适配器
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/21 15:44
  * @Version 1.0
  **/

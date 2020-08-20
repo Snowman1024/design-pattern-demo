@@ -2,7 +2,7 @@ package com.snowman.design.pattern.behavioralPattern.observer.one;
 
 /**
  * @Description
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 15:39
  * @Version 1.0
  **/

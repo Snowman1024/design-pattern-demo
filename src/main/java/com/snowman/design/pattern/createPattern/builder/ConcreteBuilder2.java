@@ -2,7 +2,7 @@ package com.snowman.design.pattern.createPattern.builder;
 
 /**
  * @Description 具体建造者2
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/29 14:21
  * @Version 1.0
  **/

@@ -5,7 +5,7 @@ package com.snowman.design.pattern.createPattern.singleton;
  * volatile 和 synchronized 能保证线程安全,
  * 但是每次访问时都要同步，会影响性能，且消耗更多的资源，这是懒汉式单例的缺点。
  *
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/21 15:24
  * @Version 1.0
  **/

@@ -4,7 +4,7 @@ import java.util.Observable;
 
 /**
  * @Description 具体目标类：原油期货
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 16:19
  * @Version 1.0
  **/

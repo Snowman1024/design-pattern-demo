@@ -2,7 +2,7 @@ package com.snowman.design.pattern.structuralPattern.bridge.one;
 
 /**
  * @Description 扩展抽象化角色
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/31 15:32
  * @Version 1.0
  **/

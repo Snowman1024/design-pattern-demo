@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @Description 组合命令模式(宏命令)
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/8/10 10:28
  * @Version 1.0
  **/

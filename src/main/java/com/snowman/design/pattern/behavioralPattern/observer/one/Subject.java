@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @Description 抽象主题
  * 保持抽象观察者引用
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 15:35
  * @Version 1.0
  **/

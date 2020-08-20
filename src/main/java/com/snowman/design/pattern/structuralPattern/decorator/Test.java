@@ -2,7 +2,7 @@ package com.snowman.design.pattern.structuralPattern.decorator;
 
 /**
  * @Description
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 15:15
  * @Version 1.0
  **/

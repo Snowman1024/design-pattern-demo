@@ -3,7 +3,7 @@ package com.snowman.design.pattern.structuralPattern.decorator;
 /**
  * @Description 抽象装饰器
  * 实现抽象组件，并保持抽象组件的引用
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 15:08
  * @Version 1.0
  **/

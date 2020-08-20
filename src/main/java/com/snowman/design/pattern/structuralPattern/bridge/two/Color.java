@@ -2,7 +2,7 @@ package com.snowman.design.pattern.structuralPattern.bridge.two;
 
 /**
  * @Description
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/31 15:36
  * @Version 1.0
  **/

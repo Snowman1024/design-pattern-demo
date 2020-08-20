@@ -2,7 +2,7 @@ package com.snowman.design.pattern.structuralPattern.bridge.one;
 
 /**
  * @Description 具体实现B
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/31 15:29
  * @Version 1.0
  **/

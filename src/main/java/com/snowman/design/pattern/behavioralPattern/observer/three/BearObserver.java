@@ -5,7 +5,7 @@ import java.util.Observer;
 
 /**
  * @Description 具体观察者类：空方
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 16:21
  * @Version 1.0
  **/

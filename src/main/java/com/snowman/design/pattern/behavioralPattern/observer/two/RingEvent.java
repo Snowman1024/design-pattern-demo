@@ -4,7 +4,7 @@ import java.util.EventObject;
 
 /**
  * @Description 铃声事件类，用于封装事件源及一些与事件相关的参数
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/7/22 15:52
  * @Version 1.0
  **/
