@@ -2,7 +2,7 @@ package com.snowman.design.pattern.behavioralPattern.memento.one;
 
 /**
  * @Description
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/9/1 10:25
  * @Version 1.0
  **/

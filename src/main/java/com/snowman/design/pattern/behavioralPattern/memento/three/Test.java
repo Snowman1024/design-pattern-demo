@@ -2,7 +2,7 @@ package com.snowman.design.pattern.behavioralPattern.memento.three;
 
 /**
  * @Description
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/9/1 11:19
  * @Version 1.0
  **/

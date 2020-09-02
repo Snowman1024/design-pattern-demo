@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @Description 发起人(原型)
  * 结合原型模式，这时备忘录就是发起人自己
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/9/1 11:11
  * @Version 1.0
  **/

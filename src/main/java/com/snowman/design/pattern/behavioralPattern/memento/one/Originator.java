@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @Description 发起人 （创建和恢复备忘录）
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/9/1 10:20
  * @Version 1.0
  **/

@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @Description 备忘录
- * @Author guoqf
+ * @Author Snowman1024
  * @Date 2020/9/1 10:36
  * @Version 1.0
  **/
