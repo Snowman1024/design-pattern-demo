@@ -11,7 +11,7 @@ import java.util.List;
  **/
 public class SimpleMediator {
 
-    private static SimpleMediator smd = new SimpleMediator();
+    private final static SimpleMediator smd = new SimpleMediator();
 
     private List<SimpleColleague> colleagues = new ArrayList<>();
 
